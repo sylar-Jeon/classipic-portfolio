@@ -209,6 +209,7 @@ ClassiPic was built in collaboration with AI assistants (primarily Claude Code).
 
 ## Links
 
+- 📖 **Case Study (deep dive)**: [case-study.en.md](case-study/case-study.en.md) · [한국어](case-study/case-study.ko.md) — narrative record of decisions, trade-offs, where it got stuck, and how it got unstuck
 - 📱 **App Store**: [ClassiPic](https://apps.apple.com/app/id6769269007)
 - 🔒 **Privacy Policy**: [classipic-privacy](https://sylar-jeon.github.io/classipic-privacy/)
 - 🌱 **Prototype**: [AlbumManager](https://github.com/sylar-Jeon/AlbumManager) — the toy project that became ClassiPic

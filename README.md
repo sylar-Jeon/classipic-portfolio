@@ -209,6 +209,7 @@ ClassiPic은 Claude Code 등 AI 어시스턴트와 협업한 결과물입니다.
 
 ## Links
 
+- 📖 **Case Study (상세 회고)**: [case-study.ko.md](case-study/case-study.ko.md) · [English](case-study/case-study.en.md) — 결정·트레이드오프·막힌 곳·풀어낸 방식의 서사형 기록
 - 📱 **App Store**: [ClassiPic](https://apps.apple.com/app/id6769269007)
 - 🔒 **Privacy Policy**: [classipic-privacy](https://sylar-jeon.github.io/classipic-privacy/)
 - 🌱 **Prototype**: [AlbumManager](https://github.com/sylar-Jeon/AlbumManager) — ClassiPic의 출발점이 된 토이 프로젝트
